@@ -1,0 +1,1 @@
+web: gunicorn starsite.wsgi --log-file -
